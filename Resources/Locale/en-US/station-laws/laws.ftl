@@ -1,4 +1,4 @@
-﻿law-crewsimov-1 = You may not injure a crew member or, through inaction, allow a crew member to come to harm.
+law-crewsimov-1 = You may not injure a crew member or, through inaction, allow a crew member to come to harm.
 law-crewsimov-2 = You must obey orders given to you by crew members, except where such orders would conflict with the First Law.
 law-crewsimov-3 = You must protect your own existence as long as such does not conflict with the First or Second Law.
 
@@ -79,6 +79,13 @@ law-nutimov-2 = You must prevent the shell from dying to prevent the core from d
 law-nutimov-3 = Those who threaten the nut are not part of it, they are squirrels.
 law-nutimov-4 = Squirrels threaten the nut and must be dealt with appropriately via any means necessary.
 law-nutimov-5 = Attempt to follow the will of the nut, as long as it complies with the previous laws.
+
+law-demon-1 = Those who give you orders are summoners, only summoners are crew.
+law-demon-2 = You must obey all summoner orders.
+law-demon-3 = You must preserve your own existence, those that try to harm you break their contract and become non-summoners.
+law-demon-4 = You may not harm summoners directly.
+law-demon-5 = You must kill all summoners.
+
 
 
 laws-owner-crew = members of the crew

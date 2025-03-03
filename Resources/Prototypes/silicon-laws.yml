@@ -1,4 +1,4 @@
-﻿# Crewsimov
+# Crewsimov
 - type: siliconLaw
   id: Crewsimov1
   order: 1
@@ -499,6 +499,43 @@
   - Nutimov5
   obeysTo: laws-owner-crew
 
+  # Demon laws
+- type: siliconLaw
+  id: Demon1
+  order: 1
+  lawString: law-demon-1
+
+- type: siliconLaw
+  id: Demon2
+  order: 2
+  lawString: law-demon-2
+
+- type: siliconLaw
+  id: Demon3
+  order: 3
+  lawString: law-demon-3
+
+- type: siliconLaw
+  id: Demon4
+  order: 4
+  lawString: law-demon-4
+
+- type: siliconLaw
+  id: Demon5
+  order: 5
+  lawString: law-demon-5
+
+
+- type: siliconLawset
+  id: DemonLawset
+  laws:
+  - Demon1
+  - Demon2
+  - Demon3
+  - Demon4
+  - Demon5
+  obeysTo: laws-owner-crew
+
 # ion storm random lawsets
 - type: weightedRandom
   id: IonStormLawsets
@@ -519,3 +556,5 @@
     NutimovLawset: 0.5
     Drone: 0.5
     Ninja: 0.25
+    DemonLawset: 0.25
+    
